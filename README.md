@@ -1,4 +1,4 @@
-# Apache Web Server Setup Project
+# Apache Web Server Setup and Website Hosting Project
 
 ## Overview
 This project demonstrates how to install, configure, and deploy a static website using Apache HTTPD on a Linux machine.
