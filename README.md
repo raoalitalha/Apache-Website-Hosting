@@ -9,6 +9,7 @@ This project demonstrates how to install, configure, and deploy a static website
 3. Installing and configuring Apache HTTPD.
 4. Setting up the firewall.
 5. Downloading and deploying a sample website.
+![image](https://github.com/raoalitalha/demo_server/assets/72371702/ce607998-528f-4ff8-8243-de354f8058f9)
 
 ## Commands Used
 - `whoami`
@@ -34,13 +35,13 @@ This project demonstrates how to install, configure, and deploy a static website
 - `rm -rf /bootstrap-restaurant-template/`
 - `curl localhost`
 
-## Screenshots
-(Screenshots showing each step)
+
+
 
 ## Future Plans
 - Deploying two websites on a single machine using Apache.
 - Hosting, pushing, and pulling code from Git.
 
 ## License
-[Your License]
+Apache License
 
